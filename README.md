@@ -269,17 +269,3 @@ Combining AI, computer vision, electronics and IoT to build intelligent systems 
   <img src="https://img.shields.io/badge/%2F%20%2F%20%2F-3FB950?style=flat-square">
 </p>
 
-## / Areas of Focus
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Computer Vision
-        ↓
-Intelligent Systems
-        ↓
-Cybersecurity
-        ↓
-Embedded Systems & IoT
