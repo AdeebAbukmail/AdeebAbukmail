@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="assets/hero-banner.png" alt="Futuristic AI artwork with a Palestine-inspired skyline" width="100%" />
+  <img src="assets/hero-banner.png" alt="Futuristic AI artwork with a glowing processor, neural circuitry and server racks" width="100%" />
   <br />
   <h1>Hi, I'm Adeeb Abumail 👋</h1>
-  <h3>Aspiring Developer · Palestine 🇵🇸</h3>
-  <p><b>AI · Machine Learning · Computer Vision · Robotics · Intelligent Automation</b></p>
+  <h3>Aspiring Developer · AI &amp; Computer Vision · Cybersecurity</h3>
+  <p><b>AI · Machine Learning · Computer Vision · Robotics · Cybersecurity · Server Automation</b></p>
   <p><i>Turning curiosity into projects, one experiment at a time.</i></p>
 </div>
 
 <p align="center">
-  <img src="assets/ai-core-pulse.gif" alt="Animated neon AI robot artwork" width="72%" />
+  <img src="assets/ai-core-pulse.gif" alt="Animated glowing AI core with orbiting rings" width="72%" />
 </p>
 
 ---
 
 ## About Me
 
-I'm an aspiring developer from Palestine who enjoys exploring how software and hardware can work together to solve practical problems. My interests span artificial intelligence, machine learning, computer vision, cybersecurity, robotics, mechatronics, electronics, programming, mathematics, and intelligent automation.
+I'm an aspiring developer. I work with software and hardware together to explore technical ideas, develop practical prototypes, and build projects across artificial intelligence, computer vision, networking, and embedded systems. My interests span artificial intelligence, machine learning, computer vision, cybersecurity, server automation, robotics, mechatronics, electronics, programming, mathematics, and intelligent automation.
 
 I learn by experimenting, building prototypes, testing ideas, and improving projects step by step. The project descriptions below distinguish work I have developed from prototypes and ideas that are still evolving.
 
@@ -23,7 +23,7 @@ I learn by experimenting, building prototypes, testing ideas, and improving proj
 
 - Artificial intelligence and machine learning
 - Computer vision and gesture-based interaction
-- Cybersecurity, networking, and Linux tools
+- Cybersecurity, networking, server automation, and Linux tools
 - Robotics, mechatronics, and embedded systems
 - Electronics, sensors, and intelligent automation
 - Programming, mathematics, and problem solving
@@ -31,16 +31,14 @@ I learn by experimenting, building prototypes, testing ideas, and improving proj
 ## Skills I'm Building
 
 - Python programming and project integration
-- Computer-vision experimentation with camera input and hand gestures
-- Building local-network applications and interactive prototypes
+- Building servers and web games powered by artificial intelligence and computer vision
+- Working with mobile hotspots, local wireless networks, radio-wave communication concepts, and connected devices
 - Debugging, testing, and improving software in stages
 - Exploring electronics, sensors, and embedded-device workflows
 
 *This is a learning-focused overview, not a claim of professional proficiency.*
 
 ## Technologies & Tools
-
-*These are technologies I use, explore, or want to keep developing with—not a ranking of my proficiency.*
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,90 +62,61 @@ I learn by experimenting, building prototypes, testing ideas, and improving proj
 
 ---
 
-## Featured Project
-
-### 🎮 AI & Computer Vision Hand-Controlled 2D Game
-
-<p align="center">
-  <img src="assets/hand-gesture-game.gif" alt="Animated concept artwork for a hand-controlled action game" width="84%" />
-</p>
-
-A 2D action game developed by Adeeb Abukmail as a school challenge, combining artificial intelligence and computer vision for gesture-based gameplay. It is also an AI and computer vision game involving shooting arrows and grenades at hostile targets while accumulating points.
-
-**Gameplay controls and actions**
-
-- Move the character using the **Arrow Keys** or **WASD**.
-- Close the hand into a fist to fire **one projectile**.
-- Raise the index finger to fire **five projectiles in different directions**.
-- Bring both hands close together to launch a **powerful bomb attack**.
-- Fight hostile targets, avoid enemy projectiles and collisions, and collect points.
-- Use camera-based hand-gesture recognition for interactive gameplay.
-
-**Status:** Developed as a school-challenge project. The artwork in this README is illustrative, not a screenshot of the running game.
-
----
-
-## Other Technical Projects
+## My Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 AI Driver Monitoring & Drowsiness Detection</h3>
-      <img src="assets/driver-monitoring-art.png" alt="Illustrative driver monitoring scene" width="100%" />
-      <p><b>Status: Implemented prototype</b></p>
-      A computer-vision safety project centered on monitoring eye state and triggering an audible warning when the eyes remain closed beyond a configurable threshold. The broader project direction includes head orientation, gaze direction, and possible phone-use cues.
+      <h3>🎮 AI & Computer Vision Hand-Controlled 2D Game</h3>
+      <img src="assets/hand-gesture-game.gif" alt="Animated concept artwork of camera-based hand gestures controlling a 2D game" width="100%" />
+      <p>An example of my AI and computer-vision work: a 2D game that combines artificial intelligence with camera-based hand-gesture recognition as its way of interacting with the player.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📷 AI Camera Surveillance System</h3>
-      <img src="assets/camera-surveillance-art.png" alt="Illustrative multi-camera surveillance interface" width="100%" />
-      <p><b>Status: Prototype / in development</b></p>
-      A camera-monitoring project exploring computer-vision detection, event-focused recording, and alerts through a local dashboard. The exact features depend on the current project build; this README does not claim that every planned module is complete.
+      <h3>🚗 AI Driver Monitoring & Drowsiness Detection</h3>
+      <img src="assets/driver-monitoring-art.png" alt="Concept artwork of a driver-monitoring camera with facial landmarks" width="100%" />
+      <p><b>Status: Implemented prototype</b></p>
+      <p>A computer-vision safety project centered on monitoring eye state and triggering an audible warning when the eyes remain closed beyond a configurable threshold. The broader project direction includes head orientation, gaze direction, and possible phone-use cues.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Wireless Phone-to-Laptop Communication</h3>
-      <img src="assets/wireless-communication-art.png" alt="Illustrative phone-to-laptop connection" width="100%" />
+      <h3>📷 AI Camera Surveillance System</h3>
+      <img src="assets/camera-surveillance-art.png" alt="Concept artwork of a multi-camera interface with object detection boxes" width="100%" />
       <p><b>Status: Prototype / in development</b></p>
-      An experimental local-network project exploring permission-based phone-to-computer communication. Planned directions include user-approved camera or screen viewing, audio and commands, and user-selected file transfer.
+      <p>A collection of computer-vision projects using custom-trained Ultralytics YOLO models to detect and identify objects in images or video. My experiments cover different object categories, including vehicles and furniture, with each project tailored to its intended detection task.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔌 Smart Automation & IoT Experiments</h3>
-      <img src="assets/iot-signal-loop.gif" alt="Animated smart automation and IoT artwork" width="100%" />
-      <p><b>Status: Experiments and ideas</b></p>
-      Ongoing exploration of sensors, electronics, Arduino, ESP32, Raspberry Pi, and practical automation concepts. Individual ideas may still be at the research or prototyping stage.
+      <h3>📱 Offline Hotspot Chat & Real-Time Communication</h3>
+      <img src="assets/wireless-communication-art.png" alt="Concept artwork of a phone hotspot connected to several phones" width="100%" />
+      <p>I developed an offline chat-room project that is hosted directly on my phone through its mobile hotspot. It does not require a computer or an internet connection: other phones join the hotspot's local wireless network and communicate over it rather than through the public internet.</p>
+      <p>The design targets approximately 10–20 connected devices, and its intended features include live audio calls, video calls, image sharing, voice messages, and text messages. These figures are design targets, not the results of verified large-scale testing.</p>
+      <p>I have not published the source code, because I want to reduce the risk of misuse, including its potential use for cheating during examinations. If you are interested in obtaining the code, you can contact me at <a href="mailto:adeebabukmail58@gmail.com">adeebabukmail58@gmail.com</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>🔌 Smart Automation & IoT Projects</h3>
+      <img src="assets/iot-signal-loop.gif" alt="Animated concept artwork of an ESP32-style board connected to smart-home devices" width="50%" />
+      <p>I have developed several IoT projects, including a smart-home project that uses an ESP-based device for controlling connected appliances. My broader work and experiments involve electronics, sensors, microcontrollers, and wireless automation.</p>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>All project illustrations are original AI-generated visual artwork used for presentation; they are not photographs or screenshots of physical prototypes.</i></p>
-
 ---
-
-## Learning Goals
-
-- Deepen my foundations in AI, machine learning, and computer vision.
-- Build more reliable real-world applications and improve how I test them.
-- Explore robotics, embedded systems, and mechatronics through hands-on experiments.
-- Improve my understanding of cybersecurity and networking in ethical, authorized environments.
-- Combine software, electronics, and automation into useful projects.
-- Keep learning, documenting, and sharing what I build.
 
 ## Connect With Me
 
-Replace these placeholders with your actual public links before publishing.
-
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your_Profile-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Your_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/AdeebAbukmail"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AdeebAbukmail-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61583433105281"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:adeebabukmail58@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://wa.me/970567818806"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="assets/ai-core-pulse.gif" alt="Neon AI artwork animation" width="62%" />
+  <img src="assets/ai-core-pulse.gif" alt="Animated glowing AI core with orbiting rings" width="62%" />
   <p><b>Learn continuously · Build thoughtfully · Make technology useful</b></p>
-  <sub>From Palestine 🇵🇸, with curiosity and a commitment to keep improving.</sub>
+  <sub>I organize my projects into single-file implementations whenever practical, following a request to make them easier for others to run, test, and explore.</sub>
 </div>
