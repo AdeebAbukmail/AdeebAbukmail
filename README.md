@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/hero-banner.png" alt="Futuristic AI artwork with a glowing processor, neural circuitry and server racks" width="100%" />
   <br />
-  <h1>Hi, I'm Adeeb Abumail 👋</h1>
+  <h1>Hi, I'm Adeeb Abukmail 👋</h1>
   <h3>Aspiring Developer · AI &amp; Computer Vision · Cybersecurity</h3>
   <p><b>AI · Machine Learning · Computer Vision · Robotics · Cybersecurity · Server Automation</b></p>
   <p><i>Turning curiosity into projects, one experiment at a time.</i></p>
