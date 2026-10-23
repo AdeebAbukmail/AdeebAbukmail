@@ -82,7 +82,6 @@ I learn by experimenting, building prototypes, testing ideas, and improving proj
     <td width="50%" valign="top">
       <h3>📷 AI Camera Surveillance System</h3>
       <img src="assets/camera-surveillance-art.png" alt="Concept artwork of a multi-camera interface with object detection boxes" width="100%" />
-      <p><b>Status: Prototype / in development</b></p>
       <p>A collection of computer-vision projects using custom-trained Ultralytics YOLO models to detect and identify objects in images or video. My experiments cover different object categories, including vehicles and furniture, with each project tailored to its intended detection task.</p>
     </td>
     <td width="50%" valign="top">
