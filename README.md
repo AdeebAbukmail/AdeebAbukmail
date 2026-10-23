@@ -75,7 +75,7 @@ I learn by experimenting, building prototypes, testing ideas, and improving proj
       <h3>🚗 AI Driver Monitoring & Drowsiness Detection</h3>
       <img src="assets/driver-monitoring-art.png" alt="Concept artwork of a driver-monitoring camera with facial landmarks" width="100%" />
       <p><b>Status: Implemented prototype</b></p>
-      <p>Aman is a project based on computer vision that focuses on monitoring the state of the eyes; it triggers an audible alert if the eyes remain closed beyond a specific threshold. The project also analyzes gaze direction and head orientation, detects the presence of a mobile phone, supports connectivity with Arduino, ESP, and smartphones, and is ready for use with Raspberry Pi.</p>
+      <p>The Driver Safety project utilizes computer vision to monitor the state of the driver's eyes, triggering an audible alert if the eyes remain closed beyond a specific threshold. The system also analyzes gaze direction and head orientation, detects the presence of a mobile phone, and supports integration with Arduino, ESP, and smartphones; it is also ready for deployment on Raspberry Pi.</p>
     </td>
   </tr>
   <tr>
